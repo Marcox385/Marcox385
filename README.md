@@ -1,5 +1,8 @@
-### Hi there 👋
-## I’m a Systems Engineering Student!
+## Hi there 👋
+### I’m a Systems Engineering Student!
+#### Currently studying at [ITESO](https://www.iteso.mx/)
+
+#### My [LinkedIn](https://www.linkedin.com/in/mrchpp/)
 <!--
 **Marcox385/Marcox385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
