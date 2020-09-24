@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I’m a Systems Engineering Student!
-#### Currently studying at [ITESO](https://www.iteso.mx/)
+#### 👨‍💻Currently studying at [ITESO](https://www.iteso.mx/)
 
-#### 👨‍💻 My [LinkedIn](https://www.linkedin.com/in/mrchpp/)
+#### 📮 My [LinkedIn](https://www.linkedin.com/in/mrchpp/)
 <!--
 **Marcox385/Marcox385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
