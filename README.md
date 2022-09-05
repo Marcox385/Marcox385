@@ -1,3 +1,6 @@
-<h1>My name is <em>Marco Cordero</em></h1>
-<p>🌎 I'll become a web developer 💻</p>
-<img src="https://live.staticflickr.com/65535/52293790880_63a0843082_b.jpg" style="width:5%; height: 5%;">
+# IS727272 - Cordero Hernández, Marco Ricardo
+
+For now, I'm a Computer Systems Engineering Student
+But tomorrow never knows
+
+![ITESO Logo](https://live.staticflickr.com/65535/52293790880_63a0843082_b.jpg)
